@@ -20,6 +20,8 @@ async function process() {
 }
 
 setInterval(process, 1005);
+setImmediate
+StyleSheetList
 
 process()
 
